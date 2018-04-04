@@ -3,7 +3,7 @@
 
 Introduction:
 
-  People cannot upload large files which is more than 100MB sometimes, the author provide his solution here.
+  People cannot upload large files which are more than 100MB sometimes, the author provides his solution here.
   
   If there are two larger files like file1 and file 2 in commit history, then the solution command is:
   
